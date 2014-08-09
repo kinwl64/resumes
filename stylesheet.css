@@ -1,0 +1,40 @@
+.education{font-family: times; font-size: 18px}
+
+*{
+	background-color: #CCFFCC;
+
+}
+
+#link{text-decoration: none;}
+
+a:hover{color:#ff0000;}
+
+h1 {
+	position: relative;
+	margin-top: 50px;
+	margin-bottom: -20px;
+	text-align: center;
+	font-size: 42px;
+}
+
+
+h2 {text-align: center;}
+
+h3{
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: -5px;
+	margin-left: px;
+}
+
+
+section{
+	position: relative;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+body{
+	position: relative;
+	margin-bottom: 100px;
+}
